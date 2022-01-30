@@ -1,5 +1,5 @@
-#!/usr/bin/env python3
-"""Defines the Airbnb clone console module."""
+#!/usr/bin/python3
+"""Defines the HBnB console."""
 import cmd
 import re
 from shlex import split
